@@ -16,9 +16,6 @@ This repository contains multiple independent React projects built for learning,
 Each project is self-contained. To run a project:
 
 1.Navigate to the project directory:
-
-bash:
-
      cd project-one
 
 2.Install dependencies:
