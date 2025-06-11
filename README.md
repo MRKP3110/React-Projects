@@ -13,21 +13,21 @@ Each project is self-contained. To run a project:
 
 1.Navigate to the project directory:
 
-    bash:
+bash:
 
-          cd project-one
+     cd project-one
 
 2.Install dependencies:
 
-    bash:
+bash:
 
-          npm install
+     npm install
 
 3.Start the development server:
 
-    bash:
+bash:
 
-          npm run dev 
+     npm run dev 
 
 ## 🛠 Built With
 
