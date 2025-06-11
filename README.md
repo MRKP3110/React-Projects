@@ -21,7 +21,7 @@ bash:
 
 bash:
 
-     npm install
+    npm install
 
 3.Start the development server:
 
