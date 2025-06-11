@@ -7,7 +7,7 @@ This repository contains multiple independent React projects built for learning,
 ## 📁 Project Structure
 
 ### TIC_TAC_TOE_Game 
-	A classic Tic-Tac-Toe game built with React, demonstrating component-based architecture, useState hook, and basic game logic.
+A classic Tic-Tac-Toe game built with React, demonstrating component-based architecture, useState hook, and basic game logic.
 
 ---
 
@@ -16,6 +16,9 @@ This repository contains multiple independent React projects built for learning,
 Each project is self-contained. To run a project:
 
 1.Navigate to the project directory:
+
+bash:
+
      cd project-one
 
 2.Install dependencies:
