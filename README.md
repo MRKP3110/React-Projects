@@ -9,6 +9,9 @@ This repository contains multiple independent React projects built for learning,
 ### TIC_TAC_TOE_Game 
 A classic Tic-Tac-Toe game built with React, demonstrating component-based architecture, useState hook, and basic game logic.
 
+### Investment_Calculator
+An Investment Calculator web app built with React, showcasing form handling, useState hook, and dynamic calculations based on user inputs. The project demonstrates best practices in state management and component structuring.
+
 ---
 
 ## 🚀 Getting Started
